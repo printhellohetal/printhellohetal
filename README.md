@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 Welcome to my GitHub profile.
 
-I'm working on a few things, but nothing public yet. Stay tuned!
-
 Find me on <a href="https://www.linkedin.com/in/hetal-kapadia">LinkedIn</a> or on <a rel="me" href="https://techhub.social/@printhellohetal">Mastodon</a>
 
 Some fun facts:
-I run. A lot.  
+I used to run. A lot.  
 I enjoy cooking and eating, but the things I most enjoy cooking I don't enjoy eating.  
-I have doggos.  They are amazing.  
+I have doggos.  They are amazing. 
