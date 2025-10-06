@@ -18,7 +18,7 @@ Welcome to my GitHub profile.
 
 Find me on <a href="https://www.linkedin.com/in/hetal-kapadia">LinkedIn</a> or on <a rel="me" href="https://techhub.social/@printhellohetal">Mastodon</a>
 
-Some fun facts:
-I run. A lot.  Find me at my next race: the Many on the Genny
+Some fun facts:  
+I run. A lot.  Find me at my next race: the Many on the Genny.  
 I enjoy cooking and eating, but the things I most enjoy cooking I don't enjoy eating.  
 I have doggos. I also foster doggos  All doggos are amazing. 
